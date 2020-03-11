@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=FakeShakespeare
+comment1.params=
+comment1.target=FakeShakespeare()
+comment1.text=\r\n\ \ \ No\ argument\ constructor\ for\ FakeShakespeare\r\n
+comment2.params=
+comment2.target=void\ readShakespeare()
+comment3.params=
+comment3.target=void\ buildAnalysis()
+comment4.params=word
+comment4.target=java.lang.String\ generateRandomWord(java.lang.String)
+comment5.params=word\ phraseLength
+comment5.target=java.lang.String\ generateRandomPhrase(java.lang.String,\ int)
+comment6.params=
+comment6.target=java.lang.String\ toString()
+comment6.text=\r\n\ \ \ Returns\ a\ string\ representation\ of\ the\ object.\ The\ default\ value\ of\ function\r\n\ \ \ is\ to\ override\ toString\ in\ the\ class\ java.lang.Object.\r\n\ \ \ \r\n\ \ \ @return\ a\ string\ representation\ of\ the\ object.\r\n
+numComments=7

@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=WordCount
+comment1.params=
+comment1.target=WordCount()
+comment1.text=\r\n\ \ \ No\ argument\ constructor\ for\ WordCount\r\n
+comment2.params=word
+comment2.target=void\ add(java.lang.String)
+comment3.params=
+comment3.target=java.util.HashMap\ getCounts()
+comment4.params=
+comment4.target=int\ getTotal()
+comment5.params=total
+comment5.target=void\ setTotal(int)
+comment6.params=
+comment6.target=java.lang.String\ toString()
+comment6.text=\r\n\ \ \ Returns\ a\ string\ representation\ of\ the\ object.\ The\ default\ value\ of\ function\r\n\ \ \ is\ to\ override\ toString\ in\ the\ class\ java.lang.Object.\r\n\ \ \ \r\n\ \ \ @return\ a\ string\ representation\ of\ the\ object.\r\n
+numComments=7

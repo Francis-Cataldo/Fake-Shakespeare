@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=s18p02_shakespeare_cataldo_francis
+comment0.text=\r\n\ \ s18p02_shakespeare_cataldo_francis\ is\ the\ root\ class\ of\ a\ solution\ to\ a\ programming\ problem.\ this\ class\ should\r\n\ \ contain\ only\ calls\ to\ System.out\ and\ methods\ of\ other\ classes.\ it\ should\ not\ contain\r\n\ \ a\ significant\ amount\ of\ other\ coding.\r\n\ \r\n\ \ @author\ \ (your\ name)\r\n\ \ @version\ December\ 09,\ 2019,\ 12\:49\:54\ PM\r\n
+comment1.params=
+comment1.target=void\ main()
+numComments=2
