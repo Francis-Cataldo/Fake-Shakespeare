@@ -39,7 +39,7 @@ public class s18p02_shakespeare_cataldo_francis {
     }
     
     /*
-    File file = new File("C:\\Users\\fcataldo\\Dropbox\\AP Comp Sci\\cataldo_francis\\s18-projects\\s18p02_shakespeare_cataldo_francis\\shakespeare.txt");
+    
     String text = "";
     HashMap<String, Integer> map = new HashMap();
     
