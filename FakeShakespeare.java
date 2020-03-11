@@ -38,7 +38,6 @@ public class FakeShakespeare {
   //
   
   public void readShakespeare() {
-    // File file = new File("C:\\Users\\fcataldo\\Dropbox\\AP Comp Sci\\cataldo_francis\\s18-projects\\s18p02_shakespeare_cataldo_francis\\shakespeare.txt");
     File file = new File("shakespeare.txt");
     String text = "";  
     StringBuffer output = new StringBuffer();
